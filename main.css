@@ -1,0 +1,41 @@
+.headline{
+	font-size: 30px;
+	margin-left:25px; 
+	font-weight: 700;
+
+}
+
+.point{
+	margin-top: 15px;
+	margin-left: 10px ;
+}
+
+#Users,#Dash,#Task {
+	text-decoration:none;
+	color: #444;
+	margin: 20px,0px,5px,15px;
+	font-weight: 700;
+}
+
+.User_name {
+	background: green; 
+	color: white;
+	
+
+}
+
+.divide{
+	width:1700px;
+	margin-left:30px
+}
+
+
+#circle {
+      width: 100px;
+      height: 100px;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      background: #444;
+      margin-left: 100px;
+    }
